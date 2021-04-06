@@ -1,0 +1,11 @@
+Phần đăng nhập nhóm em có 2 dạng tài khoản
+- Tài khoản sinh viên dạng:
+TK: (id sinh viên, vd 10000)
+MK: (mặc định là 123456)
+khi đăng nhập bằng tài khoản này sẽ hiển thị danh sách bài tập đã nhận và có chức năng đổi mật khẩu
+
+- Tài khoản admin dạng:
+TK: admin
+MK: admin
+khi đăng nhập sẽ hiện ra chương trình quản lý có một số chức năng như: thêm, xóa, sắp xếp, tìm kiếm.
+Trong phần danh sách sinh viên có chức năng đặt lại mật khẩu mặc định.
